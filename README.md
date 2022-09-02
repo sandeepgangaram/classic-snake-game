@@ -1,4 +1,4 @@
-#Classic Snake Game
+# Classic Snake Game
 
 Developed using Python
 
