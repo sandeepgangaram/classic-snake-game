@@ -39,14 +39,14 @@ while game_is_on:
     y = my_snake.head.ycor()
     # if x > 280 or x < -280 or y > 280 or y < -280:
     if abs(x) > 280 or abs(y) > 280:
-        game_is_on = False
-        score.game_over()
+        score.reset_score()
+        my_snake.reset_snake()
 
     # Detect hitting tail
     for segment in my_snake.segments[1:]:
         if my_snake.head.distance(segment) < 10:
-            game_is_on = False
-            score.game_over()
+            score.reset_score()
+            my_snake.reset_snake()
     # for segment in my_snake.segments:
         # if segment == my_snake.head:
         #     pass
