@@ -2,7 +2,7 @@
 
 Developed using Python
 
-- Using Object Oriented Programming (OOP)
+- Using Object-Oriented Programming (OOP)
 - Python Turtle Graphics
 
 To use:
