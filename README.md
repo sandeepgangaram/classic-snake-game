@@ -1,5 +1,7 @@
 # Classic Snake Game
 
+---
+
 Developed using Python
 
 - Using Object-Oriented Programming (OOP)
