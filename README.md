@@ -8,7 +8,7 @@ Developed using Python
 To use:
 
 - Clone the Repo 
- - `git clone https://github.com/sandeepgangaram/classic-snake-game.git`
+  - `git clone https://github.com/sandeepgangaram/classic-snake-game.git`
 - Run main.py
 
 Happy Coding!
